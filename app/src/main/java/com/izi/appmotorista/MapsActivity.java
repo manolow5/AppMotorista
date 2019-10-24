@@ -163,7 +163,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 LatLngBounds.Builder builder = new LatLngBounds.Builder();
                 latLng = new LatLng(mLastLocation.getLatitude(), mLastLocation.getLongitude());
                 Marker marker1 =  mMap.addMarker(new MarkerOptions().position(latLng).title("Minha Posição"));
-                final LatLng latLng2 = new LatLng(-3.131251, -60.021469);
+                final LatLng latLng2 = new LatLng(-22.839677, -47.052799);
                 Marker marker2 =  mMap.addMarker(new MarkerOptions().position(latLng2).title("Minha Posição"));
                 builder.include(marker1.getPosition());
                 builder.include(marker2.getPosition());
@@ -209,7 +209,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     .withListener(this)
                     .alternativeRoutes(false)
                     .key("AIzaSyCVA5Z6ZpycRP-NPtyKjvBbUSKXJ6aiD70")
-                    .waypoints(new LatLng(-3.131251, -60.021469), pickupLatLng)
+                    .waypoints(new LatLng(-22.839677, -47.052799), pickupLatLng)
                     .build();
             routing.execute();
         }
