@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "1020732639198",
+    "firebase_url": "https://ezcompras-90aa4.firebaseio.com",
+    "project_id": "ezcompras-90aa4",
+    "storage_bucket": "ezcompras-90aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020732639198:android:e6424aedfa1b9d42",
+        "android_client_info": {
+          "package_name": "com.example.ezcompras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020732639198-2mpdt61rir9eit2rdum42b59e8mj1udl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezcompras",
+            "certificate_hash": "bc03b6a96213a64e099adb8cdba6b9bec515eba8"
+          }
+        },
+        {
+          "client_id": "1020732639198-qifvug3e21cpskh47rhbu94vrp6fiflt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezcompras",
+            "certificate_hash": "19fff78be4201af15d9fa7b528c6fbec4a056f4c"
+          }
+        },
+        {
+          "client_id": "1020732639198-fpmn9g98et12o84mmlbk8lio8gt54qhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVt4_3AgsNQ9XdX2dUyppXXGzMxj2XgE"
+        },
+        {
+          "current_key": "AIzaSyBCVt4_3AgsNQ9XdX2dUyppXXGzMxj2XgE"
+        },
+        {
+          "current_key": "AIzaSyBCVt4_3AgsNQ9XdX2dUyppXXGzMxj2XgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020732639198-fpmn9g98et12o84mmlbk8lio8gt54qhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020732639198:android:374d22f1a9e6ea8285ff4f",
+        "android_client_info": {
+          "package_name": "com.izi.appmotorista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020732639198-gk9on9d1j04teofvnpvevbcai4341i7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.izi.appmotorista",
+            "certificate_hash": "bc03b6a96213a64e099adb8cdba6b9bec515eba8"
+          }
+        },
+        {
+          "client_id": "1020732639198-fpmn9g98et12o84mmlbk8lio8gt54qhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVt4_3AgsNQ9XdX2dUyppXXGzMxj2XgE"
+        },
+        {
+          "current_key": "AIzaSyBCVt4_3AgsNQ9XdX2dUyppXXGzMxj2XgE"
+        },
+        {
+          "current_key": "AIzaSyBCVt4_3AgsNQ9XdX2dUyppXXGzMxj2XgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020732639198-fpmn9g98et12o84mmlbk8lio8gt54qhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020732639198:android:1d8f2762f66b7434",
+        "android_client_info": {
+          "package_name": "com.izi.izicomprasempresas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020732639198-b53ij619q7h9ftg7644h7n1q2ftpfscb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.izi.izicomprasempresas",
+            "certificate_hash": "19fff78be4201af15d9fa7b528c6fbec4a056f4c"
+          }
+        },
+        {
+          "client_id": "1020732639198-6i5si2o0ai82d9ri4reb3dh74tr6p84t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.izi.izicomprasempresas",
+            "certificate_hash": "bc03b6a96213a64e099adb8cdba6b9bec515eba8"
+          }
+        },
+        {
+          "client_id": "1020732639198-fpmn9g98et12o84mmlbk8lio8gt54qhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVt4_3AgsNQ9XdX2dUyppXXGzMxj2XgE"
+        },
+        {
+          "current_key": "AIzaSyBCVt4_3AgsNQ9XdX2dUyppXXGzMxj2XgE"
+        },
+        {
+          "current_key": "AIzaSyBCVt4_3AgsNQ9XdX2dUyppXXGzMxj2XgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020732639198-fpmn9g98et12o84mmlbk8lio8gt54qhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
