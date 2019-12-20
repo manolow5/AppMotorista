@@ -1,5 +1,6 @@
 package com.izi.appmotorista;
 
+import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;
 import androidx.fragment.app.FragmentActivity;
 
@@ -45,7 +46,7 @@ import com.izi.appmotorista.model.Motoca;
 import java.util.ArrayList;
 import java.util.List;
 
-import afu.org.checkerframework.checker.nullness.qual.NonNull;
+
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, RoutingListener {
 
